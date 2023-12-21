@@ -1,31 +1,18 @@
 {
-    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
-    "window.menuBarVisibility": "compact",
-    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
-    "files.autoSave": "afterDelay",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    "css.format.enable": false,
-    "typescript.format.enable": false,
-    "less.format.enable": false,
-    "scss.format.enable": false,
-    "json.format.enable": false,
-    "html.format.enable": false,
-    "prettier.arrowParens": "avoid",
-    "prettier.bracketSameLine": true,
-    "prettier.printWidth": 120,
-    "prettier.tabWidth": 4,
-    "indentRainbow.indicatorStyle": "light",
-    "indentRainbow.lightIndicatorStyleLineWidth": 4,
-    "indentRainbow.updateDelay": 350,
-    "javascript.format.enable": false,
-    "indentRainbow.colors": [
-        "rgba(255,255,64,0.1)",
-        "rgba(127,255,127,0.1)",
-        "rgba(255,127,255,0.1)",
-        "rgba(79,236,236,0.1)"
-    ],
-    "telemetry.telemetryLevel": "off",
-    "editor.linkedEditing": true,
-    "git.ignoreMissingGitWarning": true
+  "workbench.colorTheme": "Radical",
+  "window.zoomLevel": -1,
+  "window.menuBarVisibility": "compact",
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "editor.guides.bracketPairs": true,
+  "errorLens.delay": 150,
+  "editor.fontFamily": "JetBrains Mono, Consolas",
+  "editor.wordWrapColumn": 90,
+  "editor.fontLigatures": true
 }
+
